@@ -23,13 +23,6 @@ Here are some of the technologies and tools I enjoy working with:
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 (https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
-
-(https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-(https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-(https://img.shields.io/badge/Seaborn-30A3DC?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-
-(https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 ---
 
 ### My Projects 📂
