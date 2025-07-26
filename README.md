@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=semdata&color=blue&style=for-the-badge)
+
 <!--
 **semdata/semdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
