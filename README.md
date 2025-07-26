@@ -73,5 +73,7 @@ Feel free to reach out if you want to talk about data, collaborate on a project,
 
 ---
 
+![semdata's GitHub stats](https://github-readme-stats.vercel.app/api?username=semdata&show_icons=true&theme=transparent)
+
 > ✨ “Learning never exhausts the mind – especially when it comes to data!”
 
