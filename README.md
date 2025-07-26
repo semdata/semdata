@@ -35,11 +35,15 @@ Here are a couple of projects I'm proud of:
 
 * 📉 **Customer Churn Prediction:**  
   Built a machine learning model to predict customer churn for a telecom company, identifying key factors influencing customer retention.  
-  *(Python, Scikit-learn, Pandas)*
-
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+  [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 * 🌍 **Global CO2 Emissions Analysis:**  
   Explored and visualized CO2 and greenhouse gas emissions trends over time, comparing countries and highlighting critical climate insights.  
-  *(R, ggplot2, interactive dashboards)*
+  [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+  [![ggplot2](https://img.shields.io/badge/ggplot2-DF3A99?style=flat-square&logo=ggplot2&logoColor=white)](https://ggplot2.tidyverse.org/)
+  [![Shiny](https://img.shields.io/badge/Shiny-009CDE?style=flat-square&logo=rstudio&logoColor=white)](https://shiny.posit.co/)
+
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
