@@ -76,4 +76,31 @@ Feel free to reach out if you want to talk about data, collaborate on a project,
 ![semdata's GitHub stats](https://github-readme-stats.vercel.app/api?username=semdata&show_icons=true&theme=transparent)
 
 > ✨ “Learning never exhausts the mind – especially when it comes to data!”
+> 
+## 🧰 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-CC0000?style=flat&logo=ggplot2&logoColor=white)
+![Dashboards](https://img.shields.io/badge/-Interactive_Dashboards-blueviolet?style=flat&logo=tableau&logoColor=white)
+
+## 📊 Featured Projects
+
+- 🏠 **[House Price Prediction](link)** – Linear regression model to estimate housing prices using Scikit-learn
+- 📈 **[Stock Trend Analyzer](link)** – Streamlit dashboard for analyzing market trends using Prophet
+- 🧼 **[Data Cleaning Wizard](link)** – Python script for automated data quality checks and preprocessing
+
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+## 🧪 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
