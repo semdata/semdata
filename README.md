@@ -28,14 +28,14 @@ This profile is my digital playground where I showcase my projects and learning 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=semdata&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=semdata&theme=radical)
 
 ## 🧪 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semdata&layout=compact)
 
 > ✨ “Learning never exhausts the mind – especially when it comes to data!”
